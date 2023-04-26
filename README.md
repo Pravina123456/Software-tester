@@ -1,2 +1,0 @@
-# Software-tester
-Testing Project
